@@ -4,3 +4,4 @@ This contains the data science course file followed from internet and own practi
 
 1) Completed The Crash course on Python Basic
 2)Starting numpy
+3) Completed Numpy Course
